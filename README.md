@@ -7,8 +7,6 @@ A young & ambitious Coder pursuing Bachelor's in Computer Sciences from Internat
 
 Skills: REACT / JS / HTML / CSS / JAVA / C++ / MySQL / FireBase
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/burhan-shaheen-49b3aa1b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC3RUd6v-91EbPchSMopHBoA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://burhanrepos.github.io/portfolio/)  
 
