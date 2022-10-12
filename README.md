@@ -3,9 +3,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanrepos)](https://github.com/anuraghazra/github-readme-stats)
 
-A young & ambitious Coder pursuing Bachelor's in Computer Sciences
+A young & ambitious developer.Bachelor's in Computer Sciences
 from International Islamic University Islamabad. I enjoy learning
-languages and frameworks like React and React Native.
+languages and frameworks like React, React Native and Flutter.
 
 Skills: REACT / JS / HTML / CSS / JAVA / C++ / MySQL / FireBase
 
