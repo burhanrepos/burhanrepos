@@ -15,7 +15,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I love studying History
+- ⚡ Fun fact: I love to eat Kabuli Pulao 🍽
 
 - 🙋‍♂️ Let's talk **hafiz.burhan834@gmail.com**
 
