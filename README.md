@@ -5,7 +5,7 @@
 
 <img  src="./fullstackdeveloper.gif" height="290px" align="right" />
 
-- :fire: I'm a `Full Stack Web` developer.
+- :fire: I'm a `Full Stack Web/App` developer.
 
 - 🔭 I’m also `tech` enthusiast.
 
