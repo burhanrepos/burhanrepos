@@ -1,5 +1,5 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Burhan Shaheen</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedk743&label=Profile%20views&color=129e00&style=plastic" alt="ahmedk743" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burhanrepos&label=Profile%20views&color=129e00&style=plastic"  /> </p>
 
 ## 👨 About Me:
 
