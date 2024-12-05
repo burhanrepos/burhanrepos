@@ -68,7 +68,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=burhanrepos&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhanrepos&" alt="ahmedk" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhanrepos&" alt="burhanrepos" />
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrepos&layout=compact"><p>
 </div>
 
