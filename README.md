@@ -5,7 +5,7 @@
 ### Full Stack Engineer • Frontend Specialist
 
 <a href="https://github.com/burhanrepos">
-  <img src="https://img.shields.io/github/followers/burhanrepos?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/burhanrepos?style=for-the-badge&logo=github&label=Followers&cacheSeconds=3600" alt="GitHub followers" />
 </a>
 <a href="https://www.linkedin.com/in/burhan-shaheen-49b3aa1b0">
   <img src="https://img.shields.io/badge/LinkedIn-Burhan%20Shaheen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
